@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\Malith\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

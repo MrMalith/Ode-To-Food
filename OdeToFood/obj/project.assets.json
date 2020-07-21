@@ -6023,7 +6023,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
+      "sha512": "Kvh9I0E92K5rbbiukyQuP7V47EtDWTwsnqwOSK4ICh59laZCl16oHkJFB+alEX+GMNeuCYFlcP49twiwJjYWOw==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "hasTools": true,
@@ -10084,7 +10084,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "sha512": "ZYssKUvB+2/9eo+6kPaypX/XEK04jX6yuRkR2fi+94MzX6ZF31JvVsT4jsc7zeSk7G/rS6z39pCrRJ3fDfMihw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -12947,11 +12947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\Malith\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NetCore\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "D:\\ASP.NetCore\\Ode-To-Food\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
